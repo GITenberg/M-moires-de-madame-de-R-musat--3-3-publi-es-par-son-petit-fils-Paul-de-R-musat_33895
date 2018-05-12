@@ -1,0 +1,45 @@
+_repo: M-moires-de-madame-de-R-musat--3-3-publi-es-par-son-petit-fils-Paul-de-R-musat_33895
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33895-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rémusat, Madame de (Claire Elisabeth Jeanne Gravier de Vergennes)
+    aliases:
+    - Rémusat, Claire Élisabeth Jeanne Gravier de
+    - Remusat, Madame de (Claire Elisabeth Jeanne Gravier de Vergennes)
+    - Vergennes, Claire Elisabeth Jeanne Gravier de
+    - De Vergennes, Claire Elisabeth Jeanne Gravier
+    - Gravier de Vergennes, Claire Elisabeth Jeanne
+    - Rémusat, Claire Elisabeth Jeanne Gravier de Vergennes
+    - Rémusat, comtesse de
+    - Rémusat, Madame de (Claire Élisabeth Jeanne Gravier de Vergennes de)
+    birthdate: 1780
+    deathdate: 1824
+    gutenberg_agent_id: '36835'
+    url: http://www.gutenberg.org/2009/agents/36835
+  editor:
+    agent_name: Rémusat, Paul de
+    alias: Remusat, Paul de
+    birthdate: 1831
+    deathdate: 1897
+    gutenberg_agent_id: '36836'
+    url: http://www.gutenberg.org/2009/agents/36836
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2010-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33895'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Court and courtiers'
+- !lcc 'DC'
+title: 'Mémoires de madame de Rémusat (3/3)
+
+  publiées par son petit-fils, Paul de Rémusat'
+url: http://www.gutenberg.org/ebooks/33895
